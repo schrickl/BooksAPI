@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BooksApi</string>
+    <string name="btn_search">Search</string>
+    <string name="edit_text_hint">Enter a book topic</string>
+    <string name="no_results_text">Query returned no results</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_query_text">You must enter search criteria in the Edit Text</string>
+</resources>
